@@ -31,7 +31,7 @@ export default function Signup() {
         keyboardType="string"
       />
 
-      <Text>Password Confirmation:</Text>
+      <Text>Password Confirmations:</Text>
       <TextInput
         autoCompleteType="password"
         onChangeText ={setPasswordConfirmRef}
